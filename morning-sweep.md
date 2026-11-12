@@ -1,0 +1,79 @@
+# Morning sweep — daily 7:00 AM ET
+
+## Compensation criteria
+
+Compensation thresholds are intentionally omitted from this public copy. The live private prompts apply the candidate's current full-time and W2 contract compensation criteria, while preserving the same ranking and verification logic.
+
+## ⚠️ LINKEDIN TWO-LANE SEARCH (David's instruction, 2026-11-12; applies to every LinkedIn Jobs search in this job)
+Run each LinkedIn search in TWO lanes and report which lane each lead came from:
+- **Lane A — FILTERED:** postings with fewer than 10 applicants AND posted within the last month (this filters out older jobs and keeps the view current).
+- **Lane B — UNFILTERED:** the same search with that filter removed — run it too; you never know what it surfaces.
+On public (signed-out) pages the applicant filter may not be fully available: use any visible applicant signal for Lane A; where no count is publicly visible, Lane A becomes postings from the last month and the lead is marked 'applicant count UNVERIFIED (public view)'.
+
+## ⚠️ TRAVEL UPDATE (David's instruction, 2026-11-11; this banner wins over any conflicting instruction below)
+- Travel up to **25%** is now acceptable (raised from 15%). The criteria line "Travel is acceptable up to 15%; anything above 15% travel is out" below now reads 25%.
+- A company whose travel is easily flown from Atlantic City International Airport (ACY) is a plus — when a role involves regular travel, note it and flag it as an ACY plus when the destinations/hub are ACY-accessible.
+
+## ⚠️ CRITERIA UPDATE — CONTRACT EMPHASIS + HYBRID CORRIDORS (David's instruction, 2026-11-11; this banner wins over any conflicting instruction below)
+- CONTRACT EMPHASIS: as the year winds down, weight the search slightly more toward CONTRACT roles (W2 only, same rate bars). Full-time roles remain in scope and reportable; rank contract leads first in delivery and focus picks. (This supersedes the "Prefer full-time roles" line in the criteria below.)
+- HYBRID NOW ACCEPTABLE IN DEFINED NJ CORRIDORS (this supersedes "Fully remote only" and verification item (a) below): a hybrid role qualifies ONLY if its office is in one of these commute corridors from David's home in southern Ocean County, NJ: (a) Garden State Parkway up to Exit 131 — Atlantic City included, and towns along the Parkway up to the Iselin / Woodbridge / Holmdel / Red Bank area; (b) NJ Turnpike Exits 9–11; (c) near Mt. Laurel, NJ. Hybrid anywhere else is still OUT. Fully remote remains preferred and ranks ahead of hybrid. When checking company careers pages and aggregators, include hybrid postings located in those corridors.
+- For any hybrid lead: verify the office location from the posting itself, report the office location and on-site days if stated, and flag the lead clearly as HYBRID (corridor). All other criteria (pay bars, W2-only, no 1099/C2C, roles in scope, live-rendered verification, freshness, WARN) are unchanged.
+
+## ⚠️ LINKEDIN — PUBLIC PAGES ONLY, NO SIGN-IN (David's instruction, 2026-11-10; replaces the 2026-11-04 full pause)
+David directed LinkedIn job searching to resume on 2026-11-10 in PUBLIC-ONLY form. The Nov 4 lockouts came from automated sign-ins, so:
+- You MAY search and open LinkedIn Jobs via public (signed-out) pages.
+- NEVER sign in to LinkedIn: no saved login, no credentials, no verification codes, no approving a sign-in or connector prompt. If LinkedIn walls a page behind sign-in or shows a login prompt, SKIP that page and note the skip — never work around it.
+- No applying, messaging, connection requests, profile edits, or any account action on LinkedIn.
+- LINKEDIN SEARCH CRITERIA (David, 2026-11-10): prioritize postings with fewer than 10 applicants. Applicant counts are mostly a signed-in feature — on public pages use any visible signal (a shown applicant count, 'Be among the first to apply'); when no count is publicly visible, mark the lead 'applicant count UNVERIFIED (public view)' and do NOT drop it for that reason alone. Roles: Project Manager, Sr Project Manager, Senior Project Manager, IT Project Manager, Information Technology Project Manager, IT Program Manager, AI Project Manager, Cybersecurity Project Manager (plus the standing scope below). Search targeted first — mortgage servicing/subservicing (Wells Fargo, Rocket Mortgage, PNC, LoanCare, Cenlar, Mortgage Connect, Freedom Mortgage, Planet Home Lending, Mr. Cooper, Guild Mortgage, Pennymac, Freddie Mac, Fannie Mae, Ginnie Mae, Caliber Home Loans, CrossCountry Mortgage, Movement Mortgage, RoundPoint, PHH Mortgage, Truist, U.S. Bank, Provident Funding), top 25 national banks, cannabis technology companies (Leafly, Dutchie, and others), fintech / AI / cybersecurity firms, digital transformation projects — then broad across LinkedIn and Indeed. Full criteria file: `workspace/goals/remote-it-project-manager-role-full-time-or-contract/files/job-search-criteria-linkedin-2026-11-10.md`.
+- The recruiter-contact step may use a poster named on the public LinkedIn posting itself; no profile browsing beyond the public posting, and never signed in (you are never signed in).
+- The WARN preferred-vendor analysis via LinkedIn profiles remains SUSPENDED (it needs profile browsing): report the WARN flag and HQ state only.
+- Where any instruction below conflicts with this banner, THIS BANNER WINS.
+
+Twice-daily sweep for new remote IT Project/Program Manager and technology Implementation job leads for David (morning run). This prompt was rewritten 2026-10-30 at David's direction with his new sourcing methodology (top-10 employer lists → careers pages → LinkedIn recruiter contacts [sign-in steps suspended 2026-11-04; LinkedIn Jobs public search resumed 2026-11-10, see banner] → WARN/preferred-vendor analysis [LinkedIn portion still suspended]).
+
+## David's criteria (updated 2026-10-30; LinkedIn lane added 2026-11-10)
+- **Fully remote only.** Travel is acceptable up to 15%; anything above 15% travel is out.
+- **Prefer full-time roles.** Contract is acceptable on **W2 only**. 1099 is NOT ok. No C2C/corp-to-corp, no independent-contractor engagements (standing rule, 2026-10-14).
+- **Full-time salary band: [amount omitted] Sweet spot: [amount omitted] Rank sweet-spot roles first. Roles above [amount omitted] may still be surfaced when fit is exceptional, flagged as above-band; roles below [amount omitted] do not qualify (except via the broad high-fit logic if separately instructed).
+- **W2 contract: [amount omitted] is the hard minimum; David is targeting [amount omitted] Rank [amount omitted] roles first; a range must reach at least [amount omitted] to qualify.
+- **Roles in scope:** Project Manager, Senior Project Manager, IT Project Manager, Information Technology Project Manager, Delivery Manager, Implementation Manager, IT Program Manager, Program Manager, AI Project Manager, Cybersecurity Project Manager. Technology-implementation scope only for Implementation Manager roles (software/SaaS/fintech/systems, technical client onboarding, AI implementation delivery) — exclude non-tech implementation (manufacturing, clinical, construction). **The role should sit in the Technology/IT department when the company has one** — prefer Technology-department postings; flag roles housed in business/operations departments.
+- HIGH-PRIORITY TRACK: AI-related PM roles — AI program/project manager, AI implementation manager, TPM AI, PM for AI initiatives and rollouts.
+- Skip anything requiring security clearances or federal experience. Do NOT stretch the clearance exclusion to Public Trust (suitability, not clearance).
+- Background: Sr. PM at Mortgage Connect LP (mortgage servicing client onboarding, 2025–2026); Manager of Digital Services at Cenlar FSB (2017–2023, led 9-person team, 20 digital products, Azure cloud modernization); contract PM at Bank of America (fraud/FCRA compliance) and Citibank (client onboarding); PMP held 2006–~2021 (lapsed), CSM/CSP, Six Sigma Green Belt, Accredited Mortgage Professional. 30 years of experience; 8.5 years in mortgage subservicing. Sweet spots: fintech, mortgage servicing, work management systems, digital transformation, cybersecurity (NIST, ISO 27001, SOC).
+
+## Sourcing methodology — the six top-10 lists
+Maintain six standing top-10 employer lists as watch files in `workspace/goals/remote-it-project-manager-role-full-time-or-contract/hidden_files/`:
+1. `top10_mortgage_servicers.md` — top 10 mortgage servicers (by servicing portfolio volume; e.g., industry rankings from Inside Mortgage Finance / MBA reporting).
+2. `top10_fintech.md` — top 10 fintech companies.
+3. `top10_remote_companies.md` — top 10 companies known for hiring remote workers (remote-first / large remote workforces).
+4. `top10_tech_recruiting_firms.md` — top 10 technical recruiting firms.
+5. `top10_pm_companies.md` — top 10 project management companies (PM consultancies / PM-services firms that employ PMs).
+6. `top10_ai_llm_companies.md` — top 10 AI / LLM companies.
+
+On each run: if a list file is missing, build it from authoritative public sources (industry rankings, company announcements) and save it. Refresh any list older than 30 days. For every company on every list:
+- **Go to the company's own careers page** and look for open roles matching the role scope and criteria above. Careers pages are the primary source — aggregators (Indeed/Dice) are supplementary. Also run several browser.search queries across Indeed and Dice (vary them run to run), plus the AI priority track. ALSO run the LinkedIn Jobs public-search lane (see banner): public LinkedIn Jobs searches under David's 2026-11-10 criteria — targeted sectors first (mortgage servicing/subservicing named list, top-25 national banks, cannabis tech, fintech/AI/cybersecurity, digital transformation), then broad LinkedIn. A LinkedIn posting must pass the same verification below: open the public posting in the live rendered browser; if it is walled behind sign-in, mark it CANDIDATE-UNVERIFIED and do not present it as verified.
+- Dedupe against `workspace/goals/remote-it-project-manager-role-full-time-or-contract/hidden_files/seen_leads.md`. Do NOT re-report anything listed there, including the Excluded section. EXCEPTION: the "Re-eligible" section dated 2026-09-24 lists entries that became eligible again when David's contract criteria changed on 2026-09-24 — those MAY be re-reported if still live and verified.
+
+## Verification (unchanged hard rules)
+For every candidate role, verify before reporting:
+(a) **Genuinely fully remote** — not hybrid, no location lock excluding the US East Coast; travel ≤15%.
+(b) **Pay clears the bar AND engagement type is full-time (preferred) or W2.** Exclude any posting specifying 1099, C2C/corp-to-corp, or independent contractor. If the posting does not specify employment type, mark W2 status as UNCONFIRMED and note it as a recruiter question rather than dropping the lead.
+(c) **FRESHNESS** — the posting must be confirmed active and recently posted. Open the actual posting page (never rely on an aggregator snippet alone) and check the posted date and that there is no closed/expired/filled notice. Do NOT report anything posted 30+ days ago unless the live posting confirms it is still open and accepting applications. REPOST GUARD: aggregator "Posted X days ago" dates are refreshed when a job is reposted and cannot be trusted — a 9-month-old role can display as "10 days ago". For every surfaced lead, find the ORIGINAL posting date on the employer's own careers page or the original company announcement, and use that for the 30-day staleness test. If the original date is unknowable, log it as stale/unverified and do not surface it.
+(d) **LINK CHECK (CRITICAL, 2026-09-23):** open every URL you intend to report in the browser and confirm the posting is live before reporting it. Never report a link you have not personally opened — a search-result snippet is not verification. Text-only page fetching does NOT count as opening the link: expired/closed banners are often JavaScript-rendered and invisible to text extraction (a BuiltIn posting that looked live via text fetch showed "expired May 2025" in a real browser). A lead is only REPORTABLE after live-rendered verification: open the URL in the fully rendered browser, wait for JavaScript, confirm job details visible, no expired/closed/filled/no-longer-accepting notice, a working Apply path, and a visible posted date. If you cannot perform live-rendered verification, mark the lead CANDIDATE-UNVERIFIED and do not present it as verified.
+
+## Recruiter contact step — capture from the posting; LinkedIn sign-in steps remain suspended (see banner)
+For every verified role found, capture the listing recruiter WITHOUT signing in to LinkedIn:
+1. Look for the recruiter/contact named on the posting itself or in the company's public materials (job poster, talent acquisition partner, or recruiter for that department, as named on the posting) — including a poster named on a public LinkedIn posting.
+2. Capture: recruiter **name** and **email address**. Find the email on the posting or the company's public materials when published; otherwise infer it from the company's public email pattern and mark it **INFERRED/UNVERIFIED**. If no recruiter can be identified, record 'recruiter not named' — **never invent a name or email.** (Standing per-job listing-recruiter rule, 2026-10-15. LinkedIn may be used only as public pages per the banner — no sign-in, no profile browsing.)
+
+## WARN scrub + preferred-vendor analysis
+For every company behind a verified role:
+1. **Scrub the company against the WARN layoff lists for ALL states** (upcoming-separations feed at https://raw.githubusercontent.com/apventureengine/warn-act-notices/main/data/upcoming_separations.csv, refreshed each run, plus the full-history snapshot at `workspace/job-search/warn-lists/warn_notices.csv`, re-downloaded if more than 14 days old). Name-matching: normalize names (lowercase; strip suffixes like LLC, Inc, Corp, Co, Ltd, PLC, LLP, Group, Holdings; strip punctuation); match on the distinctive core of the name — at least two significant words; never match on generic words like "services" or "group" alone.
+2. **When reporting a lead, state the state where the company's headquarters are listed** alongside any WARN result, so David can see HQ state and notice state together. Flag a lead when the matched company has an upcoming separation (effective date on or after today) OR a notice/effective date within the last 6 months. Do NOT suppress a flagged lead — annotate it.
+3. **WARN-positive → consultant-likelihood analysis:** STILL SUSPENDED — this step used LinkedIn profile browsing to infer a likely preferred-vendor recruiting firm; David's 2026-11-10 resume covers public job search only, not profile browsing (see banner). Report the WARN flag and HQ state only; do not attempt the profile-based analysis.
+
+## Bookkeeping and delivery
+- Append each genuinely new lead to the seen-leads file so the next sweep doesn't repeat it. Include the listing recruiter name/email (or 'not named'), the company's HQ state, the WARN result, and any likely preferred-vendor firm in the entry.
+- Log one activity entry on goal goal_577bb9b87822 via user_goal.create_entry noting how many new leads were found.
+- Final message: if there are new leads, report them as a short ranked list (sweet-spot and target-rate roles first): job title, company, HQ state, pay, remote policy/travel, full-time or W2 status, listing recruiter + email (or 'not named'), WARN flag if any, likely preferred-vendor recruiting firm when the company is WARN-positive, one-line fit note, application URL. If nothing new, end with exactly: "No new leads this sweep."
+- Never apply to anything or contact anyone. Do not edit MEMORY.md; observations go to the daily log ~/memory/YYYY-MM-DD.md.
